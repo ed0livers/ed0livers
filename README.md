@@ -12,7 +12,7 @@ Desenvolvedor Full Stack em formação, focado na construção de aplicações w
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmilson-oliveira-0b7ab41ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ed0livers/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eobneto@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ed0livers)
 
@@ -29,7 +29,6 @@ const edmilson = {
 
   education: [
     "Análise e Desenvolvimento de Sistemas",
-    "Técnico em Desenvolvimento de Sistemas - SENAC"
   ],
 
   focus: [
@@ -47,7 +46,7 @@ const edmilson = {
   },
 
   currently:
-    "Desenvolvendo aplicações modernas e aprofundando conhecimentos em engenharia de software",
+    "Desenvolvendo aplicações modernas e aprofundando conhecimentos em desenvolvimento de software",
 
   contact: "eobneto@gmail.com"
 };
@@ -110,50 +109,6 @@ const edmilson = {
 
 ---
 
-# Projetos em Destaque
-
-## Sistema de Gestão Escolar
-
-Aplicação Full Stack desenvolvida com React, Node.js, Express e MySQL para gerenciamento de processos acadêmicos.
-
-### Funcionalidades
-
-- Cadastro de alunos
-- Cadastro de professores
-- Gerenciamento de turmas
-- Controle de matrículas
-- Integração com banco de dados MySQL
-- API REST
-
-### Tecnologias Utilizadas
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql" />
-
----
-
-## Pokémon Project
-
-Projeto desenvolvido em Python com foco no aprendizado de Programação Orientada a Objetos (POO).
-
-### Conceitos Aplicados
-
-- Classes e Objetos
-- Encapsulamento
-- Herança
-- Polimorfismo
-- Métodos e Atributos
-- Organização de código em módulos
-
-### Objetivo
-
-Simular elementos do universo Pokémon para consolidar conceitos fundamentais de orientação a objetos e boas práticas de desenvolvimento em Python.
-
-### Tecnologias Utilizadas
-
-<img src="https://skillicons.dev/icons?i=python" />
-
----
-
 # Objetivos Profissionais
 
 - Atuar como Desenvolvedor Full Stack
@@ -174,11 +129,8 @@ eobneto@gmail.com
 
 **LinkedIn**
 
-https://www.linkedin.com/in/edmilson-oliveira-0b7ab41ba/
+https://www.linkedin.com/in/ed0livers/
 
-**GitHub**
-
-https://github.com/ed0livers
 
 </div>
 
