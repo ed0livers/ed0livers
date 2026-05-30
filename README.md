@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&center=true&vCenter=true&width=700&color=6C63FF&lines=React+%7C+Node.js+%7C+MySQL;Python+Developer;Sempre+em+busca+de+novos+desafios;Transformando+ideias+em+c%C3%B3digo;Evoluindo+uma+linha+de+c%C3%B3digo+por+vez" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&center=true&vCenter=true&width=700&color=6C63FF&lines=React+%7C+Node.js+%7C+MySQL;Python+Developer;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Sempre+em+busca+de+novos+desafios;Transformando+ideias+em+código" />
 
 <br>
 
@@ -27,6 +27,11 @@ const edmilson = {
   role: "Full Stack Developer",
   location: "Caucaia - CE, Brasil 🇧🇷",
 
+  education: [
+    "Análise e Desenvolvimento de Sistemas",
+    "Técnico em Desenvolvimento de Sistemas - SENAC"
+  ],
+
   focus: [
     "Web Applications",
     "APIs REST",
@@ -44,11 +49,32 @@ const edmilson = {
   currentProject: "Sistema de Gestão Escolar",
 
   currently:
-    "Desenvolvendo aplicações modernas e aprimorando minhas habilidades Full Stack",
+    "Desenvolvendo aplicações modernas e aprofundando meus conhecimentos em desenvolvimento Full Stack",
 
   contact: "eobneto@gmail.com"
 };
 ```
+
+---
+
+# 🎓 Formação
+
+### 🎓 Análise e Desenvolvimento de Sistemas
+
+- Desenvolvimento de Software
+- Estruturas de Dados
+- Banco de Dados
+- Engenharia de Software
+- Desenvolvimento Web
+- Programação Orientada a Objetos
+
+### 🎓 Técnico em Desenvolvimento de Sistemas - SENAC
+
+- Python
+- MySQL
+- Git e GitHub
+- Desenvolvimento de Sistemas
+- Lógica de Programação
 
 ---
 
@@ -102,14 +128,16 @@ const edmilson = {
 
 ## 📚 Sistema de Gestão Escolar
 
-Sistema completo desenvolvido com **React**, **Node.js**, **Express** e **MySQL** para gerenciamento de:
+Sistema completo desenvolvido com **React**, **Node.js**, **Express** e **MySQL**, permitindo o gerenciamento de alunos, professores, turmas e matrículas por meio de uma interface moderna e intuitiva.
 
-- Alunos
-- Professores
-- Turmas
-- Matrículas
-- Disciplinas
-- Banco de dados integrado
+### Funcionalidades
+
+- Cadastro de alunos
+- Cadastro de professores
+- Gerenciamento de turmas
+- Controle de matrículas
+- Integração com banco de dados MySQL
+- API REST com Node.js
 
 ### Tecnologias utilizadas
 
@@ -119,12 +147,24 @@ Sistema completo desenvolvido com **React**, **Node.js**, **Express** e **MySQL*
 
 ## 🎮 Pokémon Project
 
-Projeto inspirado no universo Pokémon para praticar:
+Projeto desenvolvido em **Python** com foco no aprendizado de **Programação Orientada a Objetos (POO)**.
 
-- Lógica de Programação
-- JavaScript
-- APIs
-- Desenvolvimento Web
+### Conceitos aplicados
+
+- Classes e Objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Métodos e Atributos
+- Organização de código em módulos
+
+### Objetivo
+
+Simular elementos do universo Pokémon enquanto praticava conceitos fundamentais de Orientação a Objetos e boas práticas de programação em Python.
+
+### Tecnologias utilizadas
+
+<img src="https://skillicons.dev/icons?i=python" />
 
 ---
 
@@ -143,11 +183,11 @@ Desenvolvimento de aplicações modernas utilizando:
 
 # 🎯 Objetivos
 
-- 🚀 Conquistar minha primeira oportunidade como Desenvolvedor
+- 🚀 Conquistar uma oportunidade como Desenvolvedor Full Stack
 - 📚 Aprender novas tecnologias constantemente
 - 🌎 Contribuir para projetos Open Source
 - 💡 Criar soluções que resolvam problemas reais
-- ⚡ Evoluir como Desenvolvedor Full Stack
+- ⚡ Evoluir continuamente como profissional de tecnologia
 
 ---
 
@@ -161,11 +201,11 @@ eobneto@gmail.com
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/edmilson-oliveira-0b7ab41ba/
+www.linkedin.com/in/edmilson-oliveira-0b7ab41ba
 
 🐙 **GitHub**
 
-https://github.com/ed0livers
+github.com/ed0livers
 
 </div>
 
