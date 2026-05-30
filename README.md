@@ -140,8 +140,5 @@ https://www.linkedin.com/in/ed0livers/
 
 > Transformando ideias em soluções através da tecnologia.
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ed0livers&label=VISITANTES&color=6C63FF&style=for-the-badge"/>
 
 </div>
