@@ -2,13 +2,15 @@
 
 # 👨‍💻 Edmilson Oliveira
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Sempre+em+busca+de+novos+desafios;Transformando+ideias+em+código;Evoluindo+uma+linha+de+código+por+vez" alt="Typing SVG" />
+### Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&center=true&vCenter=true&width=700&color=6C63FF&lines=React+%7C+Node.js+%7C+MySQL;Python+Developer;Sempre+em+busca+de+novos+desafios;Transformando+ideias+em+c%C3%B3digo;Evoluindo+uma+linha+de+c%C3%B3digo+por+vez" />
 
 <br>
 
-### 🚀 Construindo soluções, aprendendo todos os dias e transformando ideias em código.
+🚀 **Construindo soluções, aprendendo todos os dias e transformando ideias em código.**
 
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmilson-oliveira-0b7ab41ba/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eobneto@gmail.com)
@@ -27,18 +29,19 @@ const edmilson = {
 
   focus: [
     "Web Applications",
+    "APIs REST",
     "Banco de Dados",
     "Desenvolvimento Full Stack"
   ],
 
-  technologies: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Node.js",
-    "Python",
-    "MySQL"
-  ],
+  stack: {
+    frontend: ["React", "JavaScript", "TypeScript", "HTML", "CSS"],
+    backend: ["Node.js", "Express", "Python"],
+    database: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "GitHub", "Docker", "Linux", "VS Code"]
+  },
+
+  currentProject: "Sistema de Gestão Escolar",
 
   currently:
     "Desenvolvendo aplicações modernas e aprimorando minhas habilidades Full Stack",
@@ -49,7 +52,7 @@ const edmilson = {
 
 ---
 
-# 🛠️ Stack
+# 🛠️ Tecnologias
 
 <div align="center">
 
@@ -57,19 +60,23 @@ const edmilson = {
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 
-### ⚙️ Back-end & Banco de Dados
+### ⚙️ Back-end
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 ### 🔧 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Estatísticas GitHub
 
 <div align="center">
 
@@ -81,7 +88,7 @@ const edmilson = {
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
@@ -93,24 +100,44 @@ const edmilson = {
 
 # 🚀 Projetos em Destaque
 
-### 📚 Sistema de Gestão Escolar
+## 📚 Sistema de Gestão Escolar
 
-Sistema completo de gestão escolar desenvolvido com **React**, **Node.js**, **Express** e **MySQL**, permitindo o gerenciamento de alunos, professores, turmas e matrículas através de uma interface moderna e intuitiva.
+Sistema completo desenvolvido com **React**, **Node.js**, **Express** e **MySQL** para gerenciamento de:
 
-**Principais funcionalidades:**
-- Cadastro de alunos
-- Cadastro de professores
-- Gerenciamento de turmas
-- Controle de matrículas
-- Integração com banco de dados MySQL
+- Alunos
+- Professores
+- Turmas
+- Matrículas
+- Disciplinas
+- Banco de dados integrado
 
-### 🎮 Pokémon Project
+### Tecnologias utilizadas
 
-Projeto inspirado no universo Pokémon para praticar lógica de programação, desenvolvimento web e integração com APIs.
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql" />
 
-### 💡 Projetos Web
+---
 
-Aplicações desenvolvidas com React, Node.js, JavaScript e TypeScript focadas em resolver problemas reais e aprimorar conhecimentos em desenvolvimento Full Stack.
+## 🎮 Pokémon Project
+
+Projeto inspirado no universo Pokémon para praticar:
+
+- Lógica de Programação
+- JavaScript
+- APIs
+- Desenvolvimento Web
+
+---
+
+## 💡 Outros Projetos
+
+Desenvolvimento de aplicações modernas utilizando:
+
+- React
+- Node.js
+- JavaScript
+- TypeScript
+- MySQL
+- Python
 
 ---
 
@@ -119,7 +146,7 @@ Aplicações desenvolvidas com React, Node.js, JavaScript e TypeScript focadas e
 - 🚀 Conquistar minha primeira oportunidade como Desenvolvedor
 - 📚 Aprender novas tecnologias constantemente
 - 🌎 Contribuir para projetos Open Source
-- 💡 Criar soluções que impactem positivamente a vida das pessoas
+- 💡 Criar soluções que resolvam problemas reais
 - ⚡ Evoluir como Desenvolvedor Full Stack
 
 ---
@@ -128,12 +155,16 @@ Aplicações desenvolvidas com React, Node.js, JavaScript e TypeScript focadas e
 
 <div align="center">
 
-📧 **Email:** eobneto@gmail.com
+📧 **Email**
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/ed0livers/
+eobneto@gmail.com
 
-🐙 **GitHub:**  
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/edmilson-oliveira-0b7ab41ba/
+
+🐙 **GitHub**
+
 https://github.com/ed0livers
 
 </div>
@@ -144,6 +175,6 @@ https://github.com/ed0livers
 
 ### 💻 "Transformando ideias em código e desafios em oportunidades."
 
-<img src="https://komarev.com/ghpvc/?username=ed0livers&label=VISITANTES&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ed0livers&label=VISITANTES&color=6C63FF&style=for-the-badge"/>
 
 </div>
