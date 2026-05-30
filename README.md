@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&center=true&vCenter=true&width=700&color=6C63FF&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+em+busca+de+novos+desafios;Transformando+ideias+em+c%C3%B3digo"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=3000&duration=4000&color=6C63FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+em+busca+de+novos+desafios;Transformando+ideias+em+c%C3%B3digo" />
 
 
 <br>
