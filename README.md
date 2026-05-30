@@ -1,15 +1,14 @@
 <div align="center">
 
-# 👨‍💻 Edmilson Oliveira
+# Edmilson Oliveira
 
 ### Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=3000&duration=4000&color=6C63FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+em+busca+de+novos+desafios;Transformando+ideias+em+c%C3%B3digo" />
 
-
 <br>
 
-🚀 **Construindo soluções, aprendendo todos os dias e transformando ideias em código.**
+Desenvolvedor Full Stack em formação, focado na construção de aplicações web modernas, escaláveis e orientadas à resolução de problemas.
 
 <br><br>
 
@@ -21,22 +20,23 @@
 
 ---
 
-# ⚡ Sobre mim
+# Perfil Profissional
 
 ```javascript
 const edmilson = {
   role: "Full Stack Developer",
-  location: "Caucaia - CE, Brasil 🇧🇷",
+  location: "Caucaia - CE, Brasil",
 
   education: [
     "Análise e Desenvolvimento de Sistemas",
+    "Técnico em Desenvolvimento de Sistemas - SENAC"
   ],
 
   focus: [
-    "Web Applications",
+    "Desenvolvimento Web",
     "APIs REST",
     "Banco de Dados",
-    "Desenvolvimento Full Stack"
+    "Arquitetura Full Stack"
   ],
 
   stack: {
@@ -47,7 +47,7 @@ const edmilson = {
   },
 
   currently:
-    "Desenvolvendo aplicações modernas e aprofundando meus conhecimentos em desenvolvimento",
+    "Desenvolvendo aplicações modernas e aprofundando conhecimentos em engenharia de software",
 
   contact: "eobneto@gmail.com"
 };
@@ -55,9 +55,9 @@ const edmilson = {
 
 ---
 
-# 🎓 Formação
+# Formação Acadêmica
 
-### 🎓 Análise e Desenvolvimento de Sistemas
+## Análise e Desenvolvimento de Sistemas
 
 - Desenvolvimento de Software
 - Estruturas de Dados
@@ -66,7 +66,7 @@ const edmilson = {
 - Desenvolvimento Web
 - Programação Orientada a Objetos
 
-### 🎓 Técnico em Desenvolvimento de Sistemas - SENAC
+## Técnico em Desenvolvimento de Sistemas — SENAC
 
 - Python
 - MySQL
@@ -76,23 +76,23 @@ const edmilson = {
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 <div align="center">
 
-### 🎨 Front-end
+### Front-end
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 
-### ⚙️ Back-end
+### Back-end
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
-### 🔧 Ferramentas
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 
@@ -100,19 +100,7 @@ const edmilson = {
 
 ---
 
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ed0livers&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed0livers&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
+# Atividade no GitHub
 
 <div align="center">
 
@@ -122,31 +110,75 @@ const edmilson = {
 
 ---
 
-# 🎯 Objetivos
+# Projetos em Destaque
 
-- 🚀 Conquistar uma oportunidade como Desenvolvedor Full Stack
-- 📚 Aprender novas tecnologias constantemente
-- 🌎 Contribuir para projetos Open Source
-- 💡 Criar soluções que resolvam problemas reais
-- ⚡ Evoluir continuamente como profissional de tecnologia
+## Sistema de Gestão Escolar
+
+Aplicação Full Stack desenvolvida com React, Node.js, Express e MySQL para gerenciamento de processos acadêmicos.
+
+### Funcionalidades
+
+- Cadastro de alunos
+- Cadastro de professores
+- Gerenciamento de turmas
+- Controle de matrículas
+- Integração com banco de dados MySQL
+- API REST
+
+### Tecnologias Utilizadas
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql" />
 
 ---
 
-# 📫 Contato
+## Pokémon Project
+
+Projeto desenvolvido em Python com foco no aprendizado de Programação Orientada a Objetos (POO).
+
+### Conceitos Aplicados
+
+- Classes e Objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Métodos e Atributos
+- Organização de código em módulos
+
+### Objetivo
+
+Simular elementos do universo Pokémon para consolidar conceitos fundamentais de orientação a objetos e boas práticas de desenvolvimento em Python.
+
+### Tecnologias Utilizadas
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+---
+
+# Objetivos Profissionais
+
+- Atuar como Desenvolvedor Full Stack
+- Aprimorar continuamente minhas habilidades técnicas
+- Participar de projetos de impacto
+- Contribuir para projetos Open Source
+- Desenvolver soluções escaláveis e de qualidade
+
+---
+
+# Contato
 
 <div align="center">
 
-📧 **Email**
+**Email**
 
 eobneto@gmail.com
 
-💼 **LinkedIn**
+**LinkedIn**
 
-www.linkedin.com/in/edmilson-oliveira-0b7ab41ba
+https://www.linkedin.com/in/edmilson-oliveira-0b7ab41ba/
 
-🐙 **GitHub**
+**GitHub**
 
-github.com/ed0livers
+https://github.com/ed0livers
 
 </div>
 
@@ -154,7 +186,9 @@ github.com/ed0livers
 
 <div align="center">
 
-### 💻 "Transformando ideias em código e desafios em oportunidades."
+> Transformando ideias em soluções através da tecnologia.
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=ed0livers&label=VISITANTES&color=6C63FF&style=for-the-badge"/>
 
